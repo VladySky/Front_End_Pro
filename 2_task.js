@@ -9,7 +9,6 @@ function checkValue (array){
     }
     console.log(numb)
 
-
     function chekNumbers(numb){
         let number=0;
         let count=0;
@@ -18,13 +17,7 @@ function checkValue (array){
             count++
         }
         console.log(number / count);
-
-
-
-
     }
     chekNumbers(numb)
-
 }
-
 checkValue(array)
